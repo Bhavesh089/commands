@@ -1,4 +1,4 @@
 git add . ---> add all files in the list
 git status ----> to check all the status
 git commit -m "hello" --> to commit all the changes
-git checkout -b "this is new brach" ---> to create a new branch
+git checkout -b "this is new brach" ---> to create a new branch.
